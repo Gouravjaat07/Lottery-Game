@@ -3,7 +3,7 @@
 A simple lottery game built with React. Buy a ticket, check your numbers, and win if all numbers match!  
 
 ## Features
-- Random ticket generation
+- Random ticket generation.
 - Check for winning numbers
 - Buy a new ticket to try again
 
