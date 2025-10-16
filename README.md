@@ -5,7 +5,7 @@ A simple lottery game built with React. Buy a ticket, check your numbers, and wi
 ## Features
 - Random ticket generation.
 - Check for winning numbers.
-- Buy a new ticket to try again
+- Buy a new ticket to try again.
 
 ## How to Play
 
