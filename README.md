@@ -1,6 +1,6 @@
 # Lottery Game 🎲
 
-A simple lottery game built with React. Buy a ticket, check your numbers, and win if all numbers match!
+A simple lottery game built with React. Buy a ticket, check your numbers, and win if all numbers match
 
 ## Features
 - Random ticket generation.
